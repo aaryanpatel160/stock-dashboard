@@ -1,7 +1,7 @@
 # stock-dashboard
 Download stock-dashboard.py
 Then in command prompt pip install streamlit, pandas, numpy, yfinance, plotly and stocknews
-Then in command prompt run "python streamlit run stock-dashboard.py"
+Then in command prompt run "python -m streamlit run stock-dashboard.py"
 
 This was a personal project to showcase my skills
 
